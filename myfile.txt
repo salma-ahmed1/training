@@ -1,1 +1,1 @@
-this is a new text (hint) file to try pushing in git 
+this is a new text (hint2) file to try pushing in git 
