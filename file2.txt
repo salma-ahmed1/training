@@ -1,4 +1,4 @@
 will include this line in text in branch 2 
-
-
 -2nd time this line is modified
+
+Hello
